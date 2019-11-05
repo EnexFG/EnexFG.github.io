@@ -16,8 +16,8 @@ menu_settings:
       url: '/about'
     - title: 'Contacto'
       url: '/contact'
-    - title: 'Investigación'
-      url: '/Research'
+    - title: 'Publicaciones'
+      url: '/publicaciones'
 
 footer_settings:
   footer_tagline: Datos, Python y Economía.
