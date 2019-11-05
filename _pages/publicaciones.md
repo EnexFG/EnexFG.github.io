@@ -5,25 +5,15 @@ description: Personal is the perfect theme for developers, designers and other c
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+# Papers publicados
+[Bounds testing approach to analyze the existence of an environmental Kuznets curve in Ecuador.](https://www.econjournals.com/index.php/ijeep/article/viewFile/1831/1276) (with Zambrano-Monserrate, M. and Henk-Vera, K.) 2016. **International Journal of Energy Economics and Policy**, 6(2), 159-166.
 
-We've packed Personal full of powerful features to help showcase your work:
+## Otras publicaciones
+[El mundo ahora paga por prestar dinero](https://EnexFG.github.io/Research/Artículo Rev Comercio - Tasas Negativas.pdf)
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+[Economía del tractorcito](https://www.inteligenciaempresarial.ec/blog/econom%C3%ADa-del-tractorcito)
+
+[El Impacto de las Salvaguardias sobre la Producción en Ecuador](https://EnexFG.github.io/Research/El Impacto de las Salvaguardias sobre la Producción en Ecuador.pdf)
 
 ## Get Personal
 
