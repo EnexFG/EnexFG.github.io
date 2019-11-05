@@ -7,7 +7,7 @@ featured_image: /images/demo/about.jpg
 
 ## Intereses
 
-* Econometría
+* @icon-f69e Econometría
 * Series de tiempo y Forecasting
 * Economía
 * Machine Learning
