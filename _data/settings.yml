@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Bio'
-      url: '/bio'
+      url: '/about'
     - title: 'Contacto'
       url: '/contacto'
     - title: 'Investigación'
