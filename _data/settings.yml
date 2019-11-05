@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Bio'
       url: '/about'
     - title: 'Contacto'
-      url: '/contacto'
+      url: '/contact'
     - title: 'Investigación'
       url: '/Research'
 
