@@ -1,11 +1,11 @@
 ---
-title: About me
+title: Publicaciones
 subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+description: Publicaciones científcas, artículos de opinión, etc.
 featured_image: /images/demo/about.jpg
 ---
 
-# Papers publicados
+## Publicaciones científicas
 [Bounds testing approach to analyze the existence of an environmental Kuznets curve in Ecuador.](https://www.econjournals.com/index.php/ijeep/article/viewFile/1831/1276) (with Zambrano-Monserrate, M. and Henk-Vera, K.) 2016. **International Journal of Energy Economics and Policy**, 6(2), 159-166.
 
 ## Otras publicaciones
