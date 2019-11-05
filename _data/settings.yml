@@ -12,13 +12,15 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Bio'
+      url: '/bio'
+    - title: 'Contacto'
+      url: '/contacto'
+    - title: 'Investigación'
+      url: '/Research'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Data.
 
 hero_settings:
   overlay_opacity: 0.8
@@ -34,7 +36,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://twitter.com/EnexFG'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
