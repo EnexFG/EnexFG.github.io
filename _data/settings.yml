@@ -20,7 +20,7 @@ menu_settings:
       url: '/Research'
 
 footer_settings:
-  footer_tagline: Datos, Python y economía.
+  footer_tagline: Datos, Python y Economía.
 
 hero_settings:
   overlay_opacity: 0.8
