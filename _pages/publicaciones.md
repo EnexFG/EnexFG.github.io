@@ -1,7 +1,7 @@
 ---
 title: Publicaciones
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Publicaciones científcas, artículos de opinión, etc.
+subtitle: Publicaciones científicas, documentos técnicos, artículos de opinión, etc.
+description: Publicaciones científicas, documentos técnicos, artículos de opinión, etc.
 featured_image: /images/demo/about.jpg
 ---
 
