@@ -14,9 +14,3 @@ featured_image: /images/demo/about.jpg
 [Economía del tractorcito](https://www.inteligenciaempresarial.ec/blog/econom%C3%ADa-del-tractorcito)
 
 [El Impacto de las Salvaguardias sobre la Producción en Ecuador](https://EnexFG.github.io/Research/El Impacto de las Salvaguardias sobre la Producción en Ecuador.pdf)
-
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
