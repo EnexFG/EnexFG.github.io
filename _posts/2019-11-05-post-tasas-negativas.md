@@ -7,7 +7,8 @@ featured_image: '/images/demo/negative_interest_rate_cartoon.png'
 
 ![](/images/demo/demo-landscape.jpg)
 
-*Publicado originalmente en la revista [COMERCIO]* (https://EnexFG.github.io/Research/Artículo Rev Comercio - Tasas Negativas.pdf)
+Publicado originalmente en la revista [COMERCIO]
+(https://EnexFG.github.io/Research/Artículo Rev Comercio - Tasas Negativas.pdf)
 
 ¿Qué pensarías si pides prestado $1,000 al banco y acuerdan que al final del año le devuelvas sólo $950? Es decir, que el banco te pague en lugar de cobrarte una tasa de interés por el préstamo. Financieramente, este ejemplo implica que la tasa de interés del préstamo sea negativa. ¿Es esto posible? Sí, y a grandes envergaduras. Esta situación, contraria a la lógica financiera convencional, ya se está viviendo al otro lado del mundo.
 
