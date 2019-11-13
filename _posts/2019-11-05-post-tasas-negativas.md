@@ -5,7 +5,6 @@ description: ¿Qué pensarías si pides prestado $1,000 al banco y acuerdan que 
 featured_image: '/images/demo/negative_interest_rate_cartoon.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
 *Publicado originalmente en la revista [COMERCIO](https://EnexFG.github.io/Research/Artículo Rev Comercio - Tasas Negativas.pdf)*
 
