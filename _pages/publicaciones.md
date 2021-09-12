@@ -10,7 +10,7 @@ featured_image: /images/demo/about.jpg
 
 [Bounds testing approach to analyze the existence of an environmental Kuznets curve in Ecuador.](https://www.econjournals.com/index.php/ijeep/article/viewFile/1831/1276) (with Zambrano-Monserrate, M. and Henk-Vera, K.) 2016. **International Journal of Energy Economics and Policy**, 6(2), 159-166.
 
-## Otras publicaciones
+## Otras publicaciones en medios
 [¿Hay brisas de recuperación? La reactivación parece comenzar](https://www.primicias.ec/noticias/firmas/recuperacion-economia-crecimiento-expectativas-ecuador/)
 
 [El curioso caso de la cebolla blanca](https://www.larepublica.ec/blog/2021/08/16/el-curioso-caso-de-la-cebolla-blanca/)
