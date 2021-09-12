@@ -7,6 +7,7 @@ featured_image: /images/demo/about.jpg
 
 ## Publicaciones científicas
 [Good policy or good luck? Analyzing the effects of fiscal policy and oil revenue shocks in Ecuador](https://www.sciencedirect.com/science/article/pii/S0140988321002279) (with Manuel González-Astudillo and Cristhian Vera-Avellán.) 2021. **Energy Economics**, Vol 100.
+
 [Bounds testing approach to analyze the existence of an environmental Kuznets curve in Ecuador.](https://www.econjournals.com/index.php/ijeep/article/viewFile/1831/1276) (with Zambrano-Monserrate, M. and Henk-Vera, K.) 2016. **International Journal of Energy Economics and Policy**, 6(2), 159-166.
 
 ## Otras publicaciones
