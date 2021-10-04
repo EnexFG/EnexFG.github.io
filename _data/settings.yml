@@ -8,8 +8,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Bio'
@@ -20,7 +18,7 @@ menu_settings:
       url: '/publicaciones'
 
 footer_settings:
-  footer_tagline: Datos, Python y Economía.
+  footer_tagline: Datos, Economía y Política.
 
 hero_settings:
   overlay_opacity: 0.8
