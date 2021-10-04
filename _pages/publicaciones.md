@@ -18,10 +18,10 @@ featured_image: /images/demo/about.jpg
 
 [El #EfectoLasso: entre las anécdotas y las estadísticas](https://www.primicias.ec/noticias/firmas/efecto-lasso-anecdotas-estadisticas-confianza-economia-ecuador/)
 
-### 2020
-[El mundo ahora paga por prestar dinero](https://EnexFG.github.io/Research/Artículo Rev Comercio - Tasas Negativas.pdf)
 
 ### 2019
+[El mundo ahora paga por prestar dinero](https://EnexFG.github.io/Research/Artículo Rev Comercio - Tasas Negativas.pdf)
+
 [Economía del tractorcito](https://www.inteligenciaempresarial.ec/blog/econom%C3%ADa-del-tractorcito)
 
 [El Impacto de las Salvaguardias sobre la Producción en Ecuador](https://EnexFG.github.io/Research/El Impacto de las Salvaguardias sobre la Producción en Ecuador.pdf)
