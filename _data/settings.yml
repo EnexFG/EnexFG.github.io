@@ -9,15 +9,14 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Bio'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Bio'
       url: '/about'
-    - title: 'Contacto'
-      url: '/contact'
     - title: 'Publicaciones'
       url: '/publicaciones'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Contacto'
+      url: '/contact'
+    
 
 footer_settings:
   footer_tagline: Datos, Economía y Política.
