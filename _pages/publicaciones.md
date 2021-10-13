@@ -12,6 +12,8 @@ featured_image: /images/demo/about.jpg
 
 ## Artículos de opinión en medios
 ### 2021
+[Armar a la población no es la solución](https://www.larepublica.ec/blog/2021/10/13/mar-a-la-poblacion-no-es-la-solucion/)
+
 [¿Hay brisas de recuperación? La reactivación parece comenzar](https://www.primicias.ec/noticias/firmas/recuperacion-economia-crecimiento-expectativas-ecuador/)
 
 [El curioso caso de la cebolla blanca](https://www.larepublica.ec/blog/2021/08/16/el-curioso-caso-de-la-cebolla-blanca/)
