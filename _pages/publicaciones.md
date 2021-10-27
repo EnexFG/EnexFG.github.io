@@ -12,6 +12,8 @@ featured_image: /images/demo/about.jpg
 
 ## Artículos de opinión en medios
 ### 2021
+[Los ecuatorianos llevamos cinco años congelados en el tiempo](https://www.primicias.ec/noticias/firmas/ecuatorianos-llevamos-anos-congelados-tiempo/)
+
 [Armar a la población no es la solución](https://www.larepublica.ec/blog/2021/10/13/mar-a-la-poblacion-no-es-la-solucion/)
 
 [¿Hay brisas de recuperación? La reactivación parece comenzar](https://www.primicias.ec/noticias/firmas/recuperacion-economia-crecimiento-expectativas-ecuador/)
