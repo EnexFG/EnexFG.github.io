@@ -29,3 +29,6 @@ featured_image: /images/demo/about.jpg
 [Economía del tractorcito](https://www.inteligenciaempresarial.ec/blog/econom%C3%ADa-del-tractorcito)
 
 [El Impacto de las Salvaguardias sobre la Producción en Ecuador](https://EnexFG.github.io/Research/El Impacto de las Salvaguardias sobre la Producción en Ecuador.pdf)
+
+### 2018
+[3 Aspectos a considerar sobre la Regla Fiscal](https://www.gastopublico.org/informes-del-observatorio/3-aspectos-a-considerar-sobre-la-regla-fiscal)
