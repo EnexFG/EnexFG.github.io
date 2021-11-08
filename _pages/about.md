@@ -2,7 +2,7 @@
 title: Acerca de mi
 subtitle: Economista ....
 description: Economista.
-featured_image: /images/demo/eye.jpg
+featured_image: /images/homo_bayesianis.png
 ---
 
 
