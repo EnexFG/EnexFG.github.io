@@ -2,7 +2,7 @@
 title: Publicaciones
 subtitle: Publicaciones científicas, documentos técnicos, artículos de opinión, etc.
 description: Publicaciones científicas, documentos técnicos, artículos de opinión, etc.
-featured_image: /images/demo/vab_exp_percent.png
+featured_image: /images/vab_exp_percent.png
 ---
 
 ## Publicaciones en revistas científicas
