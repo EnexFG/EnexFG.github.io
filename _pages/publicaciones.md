@@ -12,6 +12,10 @@ featured_image: /images/vab_exp_percent.png
 
 ## Artículos de opinión en medios
 ### 2021
+[Cinco razones para no subir el salario básico de 2022](https://www.primicias.ec/noticias/firmas/cinco-razones-salario-basico-ecuador-discusion/)
+
+[Sobre estratos, ingresos y percepciones](https://www.primicias.ec/noticias/firmas/estratos-ingresos-percepciones-reforma-tributaria/)
+
 [Los ecuatorianos llevamos cinco años congelados en el tiempo](https://www.primicias.ec/noticias/firmas/ecuatorianos-llevamos-anos-congelados-tiempo/)
 
 [Armar a la población no es la solución](https://www.larepublica.ec/blog/2021/10/13/mar-a-la-poblacion-no-es-la-solucion/)
