@@ -16,6 +16,8 @@ menu_settings:
       url: '/blog/'
     - title: 'Contacto'
       url: '/contact'
+    - title: 'Inflación'
+      url: '/inflacion'
     
 
 footer_settings:
