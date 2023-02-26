@@ -1,12 +1,14 @@
 ---
 title: Acerca de mi
-subtitle: Economista ....
+subtitle: Economista con amplia experiencia en consultoría e investigación económica.
+Asesoría a instituciones del sector privado y público.
 description: Economista.
 featured_image: /images/topic_statistics.jpg
 ---
 
+Asesor Económico del Ministro de Economía y Finanzas.
 
-Director de Estudios Económicos y Estadísticos de la firma consultora [Inteligencia Empresarial](https://www.inteligenciaempresarial.ec/). Asesor económico de varias instituciones.
+He sido Director de Estudios Económicos y Estadísticos de la firma consultora [Inteligencia Empresarial](https://www.inteligenciaempresarial.ec/).
 
 Fui Director del Departamento de Investigación de la [Cámara de Comercio de Guayaquil](https://www.lacamara.org/website/).
 
