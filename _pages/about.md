@@ -1,7 +1,6 @@
 ---
 title: Acerca de mi
-subtitle: Economista con amplia experiencia en consultoría e investigación económica.
-Asesoría a instituciones del sector privado y público.
+subtitle: Economista con amplia experiencia en consultoría e investigación económica. Asesoría a instituciones del sector privado y público.
 description: Economista.
 featured_image: /images/topic_statistics.jpg
 ---
