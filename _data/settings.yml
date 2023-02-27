@@ -14,8 +14,6 @@ menu_settings:
       url: '/publicaciones'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Contacto'
-      url: '/contact'
 
     
 
