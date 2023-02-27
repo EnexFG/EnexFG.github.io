@@ -11,6 +11,15 @@ featured_image: /images/vab_exp_percent.png
 [Bounds testing approach to analyze the existence of an environmental Kuznets curve in Ecuador.](https://www.econjournals.com/index.php/ijeep/article/viewFile/1831/1276) (with Zambrano-Monserrate, M. and Henk-Vera, K.) 2016. **International Journal of Energy Economics and Policy**, 6(2), 159-166.
 
 ## Artículos de opinión en medios
+
+### 2022
+
+[El efecto Iza: apagando la economía](https://www.primicias.ec/noticias/firmas/efecto-iza-apagando-economia/)
+
+[Surfeando la ola inflacionaria y cuándo lanzar un salvavidas](https://www.primicias.ec/noticias/firmas/surfeando-ola-inflacionaria-ecuador-precios/)
+
+[Psicosis petrolera y amnesia fiscal](https://www.primicias.ec/noticias/firmas/psicosis-petrolera-amnesia-fiscal-ecuador-lasso-correa/)
+
 ### 2021
 [Cinco razones para no subir el salario básico de 2022](https://www.primicias.ec/noticias/firmas/cinco-razones-salario-basico-ecuador-discusion/)
 
@@ -33,6 +42,7 @@ featured_image: /images/vab_exp_percent.png
 [Economía del tractorcito](https://www.inteligenciaempresarial.ec/blog/econom%C3%ADa-del-tractorcito)
 
 [El Impacto de las Salvaguardias sobre la Producción en Ecuador](https://EnexFG.github.io/Research/El Impacto de las Salvaguardias sobre la Producción en Ecuador.pdf)
+
 
 ### 2018
 [3 Aspectos a considerar sobre la Regla Fiscal](https://www.gastopublico.org/informes-del-observatorio/3-aspectos-a-considerar-sobre-la-regla-fiscal)
