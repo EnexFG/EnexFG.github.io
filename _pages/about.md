@@ -5,7 +5,7 @@ description: Economista.
 featured_image: /images/topic_statistics.jpg
 ---
 
-Asesor Económico del Ministro de Economía y Finanzas.
+Asesor Económico del [Ministro de Economía y Finanzas](https://www.finanzas.gob.ec/).
 
 He sido Director de Estudios Económicos y Estadísticos de la firma consultora [Inteligencia Empresarial](https://www.inteligenciaempresarial.ec/).
 
