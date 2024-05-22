@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publicaciones Academicas"
-    url: /pub_academicas/
-
   - title: "Publicaciones"
     url: /publicaciones/
+
+  - title: "Research"
+    url: /research/
     
   - title: "Teaching"
     url: /teaching/    
