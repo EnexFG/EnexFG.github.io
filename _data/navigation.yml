@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Publicaciones Academicas"
+    url: /pub_academicas/
 
-  - title: "Talks"
-    url: /talks/    
-
+  - title: "Publicaciones"
+    url: /publicaciones/
+    
   - title: "Teaching"
     url: /teaching/    
     
@@ -17,6 +17,3 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
