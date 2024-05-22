@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publicaciones"
-    url: /publicaciones/
+  - title: "Medios"
+    url: /articulos/
 
   - title: "Research"
     url: /research/
