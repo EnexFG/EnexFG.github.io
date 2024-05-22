@@ -1,7 +1,7 @@
 ---
 title: "Bounds testing approach to analyze the existence of an environmental Kuznets curve in Ecuador"
 collection: publications
-year: '2016'
+date: 2016-04-17
 permalink: /research/2024-02-17-paper-title-number-4
 excerpt: ''
 venue: 'International Journal of Energy Economics and Policy'
