@@ -1,29 +1,41 @@
 ---
 permalink: /articulos/
-title: "Markdown"
+title: "Artículos de opinión en medios"
 author_profile: true
 ---
 
-## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+### 2022
 
-## Tips and hints
+[El efecto Iza: apagando la economía](https://www.primicias.ec/noticias/firmas/efecto-iza-apagando-economia/)
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+[Surfeando la ola inflacionaria y cuándo lanzar un salvavidas](https://www.primicias.ec/noticias/firmas/surfeando-ola-inflacionaria-ecuador-precios/)
+
+[Psicosis petrolera y amnesia fiscal](https://www.primicias.ec/noticias/firmas/psicosis-petrolera-amnesia-fiscal-ecuador-lasso-correa/)
+
+### 2021
+[Cinco razones para no subir el salario básico de 2022](https://www.primicias.ec/noticias/firmas/cinco-razones-salario-basico-ecuador-discusion/)
+
+[Sobre estratos, ingresos y percepciones](https://www.primicias.ec/noticias/firmas/estratos-ingresos-percepciones-reforma-tributaria/)
+
+[Los ecuatorianos llevamos cinco años congelados en el tiempo](https://www.primicias.ec/noticias/firmas/ecuatorianos-llevamos-anos-congelados-tiempo/)
+
+[Armar a la población no es la solución](https://www.larepublica.ec/blog/2021/10/13/mar-a-la-poblacion-no-es-la-solucion/)
+
+[¿Hay brisas de recuperación? La reactivación parece comenzar](https://www.primicias.ec/noticias/firmas/recuperacion-economia-crecimiento-expectativas-ecuador/)
+
+[El curioso caso de la cebolla blanca](https://www.larepublica.ec/blog/2021/08/16/el-curioso-caso-de-la-cebolla-blanca/)
+
+[El #EfectoLasso: entre las anécdotas y las estadísticas](https://www.primicias.ec/noticias/firmas/efecto-lasso-anecdotas-estadisticas-confianza-economia-ecuador/)
+
+
+### 2019
+[El mundo ahora paga por prestar dinero](https://EnexFG.github.io/Research/Artículo Rev Comercio - Tasas Negativas.pdf)
+
+[Economía del tractorcito](https://www.inteligenciaempresarial.ec/blog/econom%C3%ADa-del-tractorcito)
+
+[El Impacto de las Salvaguardias sobre la Producción en Ecuador](https://EnexFG.github.io/Research/El Impacto de las Salvaguardias sobre la Producción en Ecuador.pdf)
+
+
+### 2018
+[3 Aspectos a considerar sobre la Regla Fiscal](https://www.gastopublico.org/informes-del-observatorio/3-aspectos-a-considerar-sobre-la-regla-fiscal)
