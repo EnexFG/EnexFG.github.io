@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Sc. in Applied Econometrics, Lancaster University, 2024
-* MicroMaster. in Data, Economics, and Development Policy, MIT, 2022
+* MicroMaster in Data, Economics, and Development Policy, MIT, 2022
 * B.S. in Economics, ESPOL, 2016
 
 Work experience
