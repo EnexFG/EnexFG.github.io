@@ -1,6 +1,6 @@
 ---
 title: "Fiscal Dataset Ecuador (García et al. 2021)"
-excerpt: "Dataset used in [García et al. 2021]([https://www.primicias.ec/noticias/firmas/surfeando-ola-inflacionaria-ecuador-precios/](https://enexfg.github.io/research/2021-08-01-paper-title-number-2)
+excerpt: "Dataset used in [García et al. 2021]([https://www.primicias.ec/noticias/firmas/surfeando-ola-inflacionaria-ecuador-precios/](https://enexfg.github.io/research/2021-08-01-paper-title-number-2])
 collection: datasets
 ---
 
