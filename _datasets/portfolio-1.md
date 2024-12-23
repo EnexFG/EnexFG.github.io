@@ -6,4 +6,4 @@ collection: datasets
 
 Dataset used in [García-Albán et al. 2021](https://enexfg.github.io/research/2021-08-01-paper-title-number-2) and García-Albán and Camacho (2025). 
 
-[Download](_datasets_files/fds1.csv)
+[Download](https://github.com/EnexFG/EnexFG.github.io/blob/9a1c8a791812b1cd0ddb458cacd89883bba009ee/_datasets_files/fds1.csv)
