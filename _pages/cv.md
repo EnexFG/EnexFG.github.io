@@ -19,19 +19,25 @@ Work experience
 ======
 * Chief Economist (2024-present)
   * Andersen Ecuador
-  * Duties includes: Updates and improvements to template
 
 * BID Economic Consultant (2023)
-  * Ministerio de Economía y Finanzas
-  * Duties included: Merging pull requests
+  * Ministerio de Economía y Finanzas, Ecuador
+    
+* Economic Advisor (2022)
+  * Ministerio de Economía y Finanzas, Ecuador
 
-* Statistics and Economic Director
+* Statistics and Economic Director (2020-2022)
   * Inteligencia Empresarial
-  * Duties included: Tagging issues
  
-* Research Director
-  * Cárama de Comercio de Guayaquil
+* Research Director (2019-2020)
+  * Cámara de Comercio de Guayaquil
   * Duties included: Tagging issues
+
+
+Teaching experience
+======
+* Econometrics, ECOTEC
+
 
 Publications
 ======
@@ -39,6 +45,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
