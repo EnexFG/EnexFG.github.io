@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,20 +17,21 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Chief Economist (2024-present)
+  * Andersen Ecuador
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* BID Economic Consultant (2023)
+  * Ministerio de Economía y Finanzas
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
+* Statistics and Economic Director
+  * Inteligencia Empresarial
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ 
+* Research Director
+  * Cárama de Comercio de Guayaquil
+  * Duties included: Tagging issues
 
 Publications
 ======
