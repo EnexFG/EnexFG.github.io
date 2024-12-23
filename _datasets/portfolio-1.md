@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Dataset Ecuador (García et al. 2021)"
+title: "Twin deficits dataset Ecuador 2000-2019"
 excerpt: ""
 collection: datasets
 ---
