@@ -1,6 +1,6 @@
 ---
 title: "Fiscal Dataset Ecuador (García et al. 2021)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Dataset used in  1<br/><img src='/images/500x300.png'>"
 collection: datasets
 ---
 
