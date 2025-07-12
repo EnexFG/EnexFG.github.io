@@ -4,7 +4,7 @@ collection: publications
 date: 2025-07-10
 permalink: /research/2025-07-10-paper-title-number-3
 excerpt: ''
-venue: 'Energy Economics'
+venue: 'Arxiv preprint'
 paperurl: 'https://arxiv.org/abs/2507.07450'
 citation: 'García-Albán, F., & Jarrín, J. (2025). Tracking the economy at high frequency. arXiv. https://arxiv.org/abs/2507.07450'
 ---
