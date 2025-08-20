@@ -17,27 +17,23 @@ Education
 
 Work experience
 ======
-* Chief Economist (2024-present)
-  * Andersen Ecuador
+* Andersen Ecuador (2024-present)
+  * Chief Economist
 
-* BID Economic Consultant (2023)
-  * Ministerio de Economía y Finanzas, Ecuador
-    
-* Economic Advisor (2022)
-  * Ministerio de Economía y Finanzas, Ecuador
+* Ministerio de Economía y Finanzas, Ecuador (2022-2023)
+  * BID Economic Consultant
+  * Economic Advisor
 
-* Statistics and Economic Director (2020-2022)
-  * Inteligencia Empresarial
+* Inteligencia Empresarial (2020-2022)
+  * Statistics and Economic Director
  
-* Research Director (2019-2020)
-  * Cámara de Comercio de Guayaquil
-  * Duties included: Tagging issues
-
+* Cámara de Comercio de Guayaquil (2019-2020)
+  * Research Director
 
 Teaching experience
 ======
-* Statistics, ESPAE-ESPOL.
-* Econometrics and Statistics, ECOTEC
+* Statistics, ESPAE-ESPOL. (present)
+* Econometrics and Statistics, ECOTEC. (present)
 
 
 Publications
