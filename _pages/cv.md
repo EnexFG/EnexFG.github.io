@@ -36,7 +36,8 @@ Work experience
 
 Teaching experience
 ======
-* Econometrics, ECOTEC
+* Statistics, ESPAE-ESPOL.
+* Econometrics and Statistics, ECOTEC
 
 
 Publications
