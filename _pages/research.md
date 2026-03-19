@@ -13,13 +13,11 @@ author_profile: true
 <div class="research-page">
   <p class="research-page__eyebrow">Current interests</p>
   <ul class="research-page__keywords">
-    <li>Macroeconometrics and forecasting</li>
-    <li>Bayesian methods</li>
-    <li>High-frequency indicators</li>
-    <li>Fiscal policy and oil-revenue shocks</li>
-    <li>Dollarization and twin deficits</li>
+    <li>Forecasting and nowcasting</li>
+    <li>Bayesian modeling</li>
     <li>Natural language processing</li>
-    <li>Competition and simulation</li>
+    <li>Computational methods</li>
+    <li>Applied macroeconometrics</li>
   </ul>
 </div>
 
