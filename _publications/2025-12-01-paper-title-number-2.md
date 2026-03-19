@@ -1,6 +1,7 @@
 ---
 title: "Testing self-financing public investment: Evidence from an oil-exporting economy"
 collection: publications
+publication_status: published
 date: 2025-12-01
 permalink: /research/2025-12-01-paper-title-number-2
 excerpt: ''

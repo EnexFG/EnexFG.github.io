@@ -66,6 +66,60 @@
   }
 }
 
+.archive__item-meta {
+  margin: 0 0 0.35em;
+  color: mix(#fff, $gray, 22%);
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  letter-spacing: 0.02em;
+}
+
+.research-page {
+  margin: 0 0 2.25em;
+}
+
+.research-page__lead {
+  margin-bottom: 1.75em;
+  padding: 1.25em 1.35em;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  border-left: 3px solid mix($info-color, #fff, 65%);
+  background: linear-gradient(180deg, mix(#fff, $light-gray, 94%), #fff);
+  box-shadow: 0 10px 22px rgba(#000, 0.03);
+
+  p {
+    margin: 0;
+    font-size: 1.02em;
+    line-height: 1.7;
+  }
+
+  p + p {
+    margin-top: 0.9em;
+  }
+}
+
+.research-page__topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65em;
+  margin: 0 0 2em;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+    padding: 0.45em 0.8em;
+    border: 1px solid $border-color;
+    border-radius: 999px;
+    background: mix(#fff, $light-gray, 96%);
+    color: mix(#000, $gray, 55%);
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    line-height: 1.4;
+    letter-spacing: 0.01em;
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;

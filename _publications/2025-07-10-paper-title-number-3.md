@@ -1,6 +1,7 @@
 ---
 title: "Tracking the economy at high frequency"
 collection: publications
+publication_status: working-paper
 date: 2025-07-10
 permalink: /research/2025-07-10-paper-title-number-3
 excerpt: ''

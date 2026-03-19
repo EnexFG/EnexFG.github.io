@@ -1,6 +1,7 @@
 ---
 title: "Good policy or good luck? Analyzing the effects of fiscal policy and oil revenue shocks in Ecuador"
 collection: publications
+publication_status: published
 date: 2021-08-01
 permalink: /research/2021-08-01-paper-title-number-2
 excerpt: ''

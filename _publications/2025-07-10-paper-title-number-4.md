@@ -1,6 +1,7 @@
 ---
 title: "Looking for the Twin Deficits in a Dollarized Oil-Exporting Economy"
 collection: publications
+publication_status: working-paper
 date: 2025-07-10
 permalink: /research/2025-07-10-paper-title-number-4
 excerpt: ''

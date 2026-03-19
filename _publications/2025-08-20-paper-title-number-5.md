@@ -1,6 +1,7 @@
 ---
 title: "Collusive networks in market-sharing agreements: An agent-based simulation"
 collection: publications
+publication_status: working-paper
 date: 2025-08-20
 permalink: /research/2025-08-20-paper-title-number-5
 excerpt: ''
