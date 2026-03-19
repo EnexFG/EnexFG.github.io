@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Data Tasting"
+title                    : "Freddy García-Albán"
 title_separator          : "-"
 name                     : &name "Freddy García-Albán"
-description              : &description "personal description"
+description              : &description "Applied econometrician building decision systems for policy, business, and research."
 url                      : https://enexfg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enexfg.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Freddy García-Albán"
   pronouns         : # example: "she/her"  
-  bio              : "I'm constantly updating my priors."
+  bio              : "Chief Economist and applied econometrician working across policy, business, and research."
   location         : "Guayaquil-Ecuador"
-  employer         : "Ecotec University"
+  employer         : "Andersen Ecuador / ESPOL / Ecotec"
   uri              : # URL
   email            : "fgarcia@ecotec.edu.ec" 
 
@@ -78,7 +78,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
