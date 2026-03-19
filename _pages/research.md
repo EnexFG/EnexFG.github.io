@@ -13,7 +13,7 @@ author_profile: true
 <div class="research-page">
   <div class="research-page__lead">
     <p>My research focuses on macroeconometrics, forecasting, and measurement. I am especially interested in how statistical and computational methods can be used to study real-time economic dynamics in data-constrained environments.</p>
-    <p>I work mainly on empirical macroeconomics, Bayesian methods, high-frequency indicators, and natural language processing, with applications to fiscal policy, external balance, and competition.</p>
+    <p>I work mainly on empirical macroeconomics, Bayesian methods, high-frequency indicators, and natural language processing.</p>
   </div>
 
   <ul class="research-page__topics">
@@ -27,17 +27,17 @@ author_profile: true
   </ul>
 </div>
 
-Publications
-==============
-
-{% for post in published_papers %}
-  {% include archive-single.html %}
-{% endfor %}
-
 Working Papers
 ============
 
 {% for post in working_papers %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Publications
+==============
+
+{% for post in published_papers %}
   {% include archive-single.html %}
 {% endfor %}
 

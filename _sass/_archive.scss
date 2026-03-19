@@ -74,6 +74,25 @@
   letter-spacing: 0.02em;
 }
 
+.publication-note,
+.publication-links {
+  margin: 0.45em 0 0;
+  color: mix(#000, $gray, 72%);
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  line-height: 1.6;
+}
+
+.publication-note__label {
+  display: block;
+  margin-bottom: 0.25em;
+  color: mix(#fff, $gray, 16%);
+  font-size: $type-size-7;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .research-page {
   margin: 0 0 2.25em;
 }
