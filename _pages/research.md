@@ -16,7 +16,6 @@ author_profile: true
     <li>Forecasting and nowcasting</li>
     <li>Bayesian modeling</li>
     <li>Natural language processing</li>
-    <li>Computational methods</li>
     <li>Applied macroeconometrics</li>
   </ul>
 </div>
