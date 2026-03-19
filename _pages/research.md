@@ -11,19 +11,15 @@ author_profile: true
 {% assign working_papers = site.publications | where: "publication_status", "working-paper" | sort: "date" | reverse %}
 
 <div class="research-page">
-  <div class="research-page__lead">
-    <p>My research focuses on macroeconometrics, forecasting, and measurement. I am especially interested in how statistical and computational methods can be used to study real-time economic dynamics in data-constrained environments.</p>
-    <p>I work mainly on empirical macroeconomics, Bayesian methods, high-frequency indicators, and natural language processing.</p>
-  </div>
-
-  <ul class="research-page__topics">
-    <li>Macroeconomic forecasting and nowcasting</li>
-    <li>Bayesian methods for macroeconomic analysis</li>
-    <li>High-frequency economic measurement</li>
+  <p class="research-page__eyebrow">Current interests</p>
+  <ul class="research-page__keywords">
+    <li>Macroeconometrics and forecasting</li>
+    <li>Bayesian methods</li>
+    <li>High-frequency indicators</li>
     <li>Fiscal policy and oil-revenue shocks</li>
-    <li>Dollarization, external balance, and twin deficits</li>
-    <li>Applied natural language processing</li>
-    <li>Simulation and competition policy</li>
+    <li>Dollarization and twin deficits</li>
+    <li>Natural language processing</li>
+    <li>Competition and simulation</li>
   </ul>
 </div>
 

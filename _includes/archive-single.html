@@ -59,25 +59,18 @@
     {% endif %}
     
     {% if post.collection == 'publications' and post.publication_status == 'working-paper' %}
-      {% if post.paperurl and post.slidesurl %}
-        <p class="publication-links"><a href="{{ post.paperurl }}">Read paper</a> | <a href="{{ post.slidesurl }}">Download slides</a></p>
-      {% elsif post.paperurl %}
-        <p class="publication-links"><a href="{{ post.paperurl }}">Read paper</a></p>
-      {% elsif post.slidesurl %}
-        <p class="publication-links"><a href="{{ post.slidesurl }}">Download slides</a></p>
-      {% endif %}
     {% elsif post.citation and post.paperurl and post.slidesurl %}
-      <p class="publication-note"><span class="publication-note__label">Recommended citation</span>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download paper</a> | <a href="{{ post.slidesurl }}">Download slides</a></p>
+      <p class="publication-note"><span class="publication-note__label">Recommended citation</span>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.slidesurl }}">Slides</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p class="publication-note"><span class="publication-note__label">Recommended citation</span>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download paper</a></p>
+      <p class="publication-note"><span class="publication-note__label">Recommended citation</span>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a></p>
     {% elsif post.citation and post.slidesurl %}
-      <p class="publication-note"><span class="publication-note__label">Recommended citation</span>{{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download slides</a></p>
+      <p class="publication-note"><span class="publication-note__label">Recommended citation</span>{{ post.citation }}<br /><a href="{{ post.slidesurl }}">Slides</a></p>
     {% elsif post.citation %}
       <p class="publication-note"><span class="publication-note__label">Recommended citation</span>{{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p class="publication-links"><a href="{{ post.paperurl }}">Download paper</a></p>
+      <p class="publication-links"><a href="{{ post.paperurl }}">Paper</a></p>
     {% elsif post.slidesurl %}
-      <p class="publication-links"><a href="{{ post.slidesurl }}">Download slides</a></p>
+      <p class="publication-links"><a href="{{ post.slidesurl }}">Slides</a></p>
     {% endif %}
 
   </article>
