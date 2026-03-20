@@ -266,9 +266,7 @@
    ========================================================================== */
 
 .home-landing {
-  --home-accent: #{mix($info-color, #000, 10%)};
   --home-muted: #{mix(#000, $gray, 55%)};
-  --home-soft: #{mix(#fff, $light-gray, 95%)};
   margin: 0 auto 2.5em;
 
   h1,
@@ -286,7 +284,7 @@
 
 .home-hero {
   position: relative;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.2em;
   padding: 2.15em 1.35em 1.5em;
   border: 1px solid $border-color;
   border-radius: 18px;
@@ -301,8 +299,6 @@
 }
 
 .home-hero__eyebrow,
-.home-panel__eyebrow,
-.home-linkcard__eyebrow,
 .home-band__label {
   display: block;
   color: mix(#fff, $gray, 16%);
@@ -355,7 +351,7 @@
 .home-band {
   display: grid;
   gap: 0.8em;
-  margin-bottom: 1.6em;
+  margin-bottom: 0;
 
   @include breakpoint($medium) {
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -374,84 +370,6 @@
     color: mix(#000, $gray, 72%);
     font-size: $type-size-5;
     line-height: 1.45;
-  }
-}
-
-.home-panels {
-  display: grid;
-  gap: 1em;
-  margin-bottom: 1.8em;
-
-  @include breakpoint($medium) {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-.home-panel {
-  padding: 1.3em 1.25em 1.15em;
-  border: 1px solid $border-color;
-  border-radius: 16px;
-  background: #fff;
-}
-
-.home-panel--tint {
-  background: linear-gradient(180deg, mix(#fff, $light-gray, 96%), #fff);
-}
-
-.home-panel__eyebrow {
-  margin-bottom: 1em;
-}
-
-.home-panel__title {
-  margin-bottom: 0.85em;
-  color: mix(#000, $gray, 78%);
-  font-size: 1.35em;
-  line-height: 1.15;
-}
-
-.home-panel__list {
-  margin: 0;
-  padding-left: 1.1em;
-
-  li {
-    margin-bottom: 0.5em;
-    color: var(--home-muted);
-    font-size: 0.98em;
-  }
-}
-
-.home-links {
-  display: grid;
-  gap: 0.9em;
-
-  @include breakpoint($medium) {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
-.home-linkcard {
-  display: block;
-  min-height: 100%;
-  padding: 1.15em 1.1em;
-  color: inherit;
-  text-decoration: none;
-  border: 1px solid $border-color;
-  border-radius: 16px;
-  background: #fff;
-  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
-
-  strong {
-    display: block;
-    margin-top: 0.55em;
-    color: mix(#000, $gray, 72%);
-    font-size: $type-size-5;
-    line-height: 1.5;
-  }
-
-  &:hover {
-    transform: translateY(-2px);
-    border-color: mix($info-color, #fff, 65%);
-    box-shadow: 0 18px 30px rgba(#000, 0.05);
   }
 }
 

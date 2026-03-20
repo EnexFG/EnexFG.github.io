@@ -35,43 +35,4 @@ author_profile: false
       <strong>Business, policy, and research</strong>
     </div>
   </section>
-
-  <section class="home-panels">
-    <div class="home-panel">
-      <p class="home-panel__eyebrow">Focus</p>
-      <h2 class="home-panel__title">Technical work with decision value.</h2>
-      <ul class="home-panel__list">
-        <li>Forecasting and nowcasting</li>
-        <li>Bayesian modeling</li>
-        <li>Natural language processing</li>
-        <li>Applied macroeconometrics</li>
-      </ul>
-    </div>
-
-    <div class="home-panel home-panel--tint">
-      <p class="home-panel__eyebrow">Current agenda</p>
-      <h2 class="home-panel__title">Problems I keep returning to.</h2>
-      <ul class="home-panel__list">
-        <li>Real-time economic tracking</li>
-        <li>High-frequency indicators</li>
-        <li>Fiscal shocks and oil-revenue dynamics</li>
-        <li>External balance in dollarized economies</li>
-      </ul>
-    </div>
-  </section>
-
-  <section class="home-links" aria-label="Key sections">
-    <a class="home-linkcard" href="{{ base_path }}/about/">
-      <span class="home-linkcard__eyebrow">About</span>
-      <strong>Background, roles, and broader profile.</strong>
-    </a>
-    <a class="home-linkcard" href="{{ base_path }}/research/">
-      <span class="home-linkcard__eyebrow">Research</span>
-      <strong>Papers and working papers.</strong>
-    </a>
-    <a class="home-linkcard" href="{{ base_path }}/datasets/">
-      <span class="home-linkcard__eyebrow">Data Tasting</span>
-      <strong>Datasets, notes, and technical material.</strong>
-    </a>
-  </section>
 </div>
