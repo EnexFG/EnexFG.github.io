@@ -5,9 +5,6 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Writing"
-    url: /articulos/
-
   - title: "Data Tasting"
     url: /datasets/
 

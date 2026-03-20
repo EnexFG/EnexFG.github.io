@@ -1,12 +1,10 @@
 ---
 permalink: /articulos/
-title: "Writing"
+title: "Media Archive"
 author_profile: true
 ---
 
-This section collects selected public writing, media columns, and opinion pieces. Most of them are in Spanish and focus on macroeconomics, fiscal policy, inflation, and Ecuador's economic debate.
-
-I use public writing to translate technical analysis into clear arguments for broader audiences.
+This page collects selected columns and media pieces, mostly in Spanish, on macroeconomics and Ecuador's economic debate.
 
 ### 2022
 
