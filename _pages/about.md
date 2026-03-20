@@ -20,19 +20,4 @@ author_profile: false
       <a href="{{ base_path }}/cv/" class="btn btn--inverse">CV</a>
     </div>
   </section>
-
-  <section class="home-band" aria-label="Current roles and scope">
-    <div class="home-band__item">
-      <span class="home-band__label">Current role</span>
-      <strong>Chief Economist, Andersen Ecuador</strong>
-    </div>
-    <div class="home-band__item">
-      <span class="home-band__label">Teaching</span>
-      <strong>ESPOL and Ecotec</strong>
-    </div>
-    <div class="home-band__item">
-      <span class="home-band__label">Scope</span>
-      <strong>Business, policy, and research</strong>
-    </div>
-  </section>
 </div>

@@ -298,8 +298,7 @@
   }
 }
 
-.home-hero__eyebrow,
-.home-band__label {
+.home-hero__eyebrow {
   display: block;
   color: mix(#fff, $gray, 16%);
   font-family: $sans-serif;
@@ -346,31 +345,6 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.65em;
-}
-
-.home-band {
-  display: grid;
-  gap: 0.8em;
-  margin-bottom: 0;
-
-  @include breakpoint($medium) {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
-.home-band__item {
-  padding: 1em 1.05em;
-  border: 1px solid $border-color;
-  border-radius: 14px;
-  background: #fff;
-
-  strong {
-    display: block;
-    margin-top: 0.45em;
-    color: mix(#000, $gray, 72%);
-    font-size: $type-size-5;
-    line-height: 1.45;
-  }
 }
 
 .page__taxonomy-item {
