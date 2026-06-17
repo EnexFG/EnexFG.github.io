@@ -15,7 +15,7 @@ author_profile: false
     <p class="home-hero__support">My work centers on forecasting and nowcasting, Bayesian modeling, natural language processing, and applied macroeconometrics.</p>
 
     <div class="home-hero__actions">
-      <a href="{{ base_path }}/research/" class="btn btn--info">Research</a>
+      <a href="{{ base_path }}/research/" class="btn">Research</a>
       <a href="{{ base_path }}/datasets/" class="btn btn--inverse">Data Tasting</a>
       <a href="{{ base_path }}/cv/" class="btn btn--inverse">CV</a>
     </div>
