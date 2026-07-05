@@ -1,0 +1,176 @@
+\documentclass[aspectratio=169,10pt]{beamer}
+
+\usetheme{FGA}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\title[Looking for Twin Deficits]{Looking for the Twin Deficits in a Dollarized Oil-Exporting Economy}
+\subtitle{Fiscal shocks, external balance, and oil revenue}
+\author{Freddy Garcia-Alban}
+\institute{Research seminar}
+\date{June 2026}
+
+\pgfplotsset{
+  fgaaxis/.style={
+    width=0.96\linewidth,
+    height=0.52\linewidth,
+    axis line style={FGAInk},
+    tick label style={font=\scriptsize, text=FGAGray},
+    label style={font=\scriptsize, text=FGAInk},
+    title style={font=\small\bfseries, text=FGAInk},
+    grid=major,
+    grid style={FGABone},
+    major grid style={FGABone},
+    legend style={
+      draw=none,
+      fill=none,
+      font=\scriptsize,
+      text=FGAGray,
+      at={(0.02,0.98)},
+      anchor=north west
+    },
+    tick style={FGAInk},
+  }
+}
+
+\begin{document}
+
+\begin{frame}[plain]
+  \titlepage
+\end{frame}
+
+\section{Motivation}
+
+\begin{frame}{The empirical problem}
+  \begin{columns}[T,onlytextwidth]
+    \begin{column}{0.57\textwidth}
+      \begin{itemize}
+        \item Dollarization changes the transmission of fiscal shocks.
+        \item Oil revenues move with fiscal space and external accounts.
+        \item The object of interest is whether fiscal deficits weaken the trade balance.
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.37\textwidth}
+      \fgametric{FGAAubergine}{Dollarized}{No nominal exchange-rate adjustment}
+      \vspace{0.10cm}
+      \fgametric{FGATeal}{Oil exporter}{Fiscal and external shocks interact}
+      \vspace{0.10cm}
+      \fgametric{FGACopper}{Twin deficits}{Trade balance response is the test}
+    \end{column}
+  \end{columns}
+
+  \fgatakeaway{The identification problem is fiscal policy in an oil-linked external sector.}
+\end{frame}
+
+\section{Model}
+
+\begin{frame}{Bayesian VAR with sign restrictions}
+  \begin{block}{Reduced form}
+    \[
+      y_t = A_1 y_{t-1} + \cdots + A_p y_{t-p} + u_t,
+      \qquad u_t \sim N(0,\Sigma).
+    \]
+  \end{block}
+
+  \vspace{0.2cm}
+
+  \begin{columns}[T,onlytextwidth]
+    \begin{column}{0.31\textwidth}
+      \begin{exampleblock}{Priors}
+        Minnesota-style shrinkage for macroeconomic dynamics.
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.31\textwidth}
+      \begin{exampleblock}{Identification}
+        Sign restrictions separate fiscal and oil revenue shocks.
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.31\textwidth}
+      \begin{alertblock}{Target}
+        Trade balance and real exchange-rate responses.
+      \end{alertblock}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\section{Results}
+
+\begin{frame}{Fiscal deficits weaken external balance}
+  \begin{columns}[T,onlytextwidth]
+    \begin{column}{0.63\textwidth}
+      \begin{tikzpicture}
+        \begin{axis}[
+          fgaaxis,
+          xlabel={Horizon},
+          ylabel={Response},
+          xmin=0, xmax=16,
+          ymin=-0.8, ymax=0.35,
+          xtick={0,4,8,12,16},
+          ytick={-0.75,-0.5,-0.25,0,0.25},
+          legend entries={Government consumption shock, Tax shock, Key window},
+        ]
+          \addplot[FGATeal, very thick, mark=none] coordinates {
+            (0,0.00) (1,-0.08) (2,-0.15) (3,-0.22) (4,-0.29)
+            (5,-0.34) (6,-0.39) (7,-0.45) (8,-0.50) (9,-0.54)
+            (10,-0.58) (11,-0.61) (12,-0.63) (13,-0.64) (14,-0.65)
+            (15,-0.65) (16,-0.64)
+          };
+          \addplot[FGAGray, thick, mark=none, opacity=0.75] coordinates {
+            (0,0.00) (1,-0.03) (2,-0.08) (3,-0.12) (4,-0.17)
+            (5,-0.20) (6,-0.24) (7,-0.27) (8,-0.30) (9,-0.32)
+            (10,-0.34) (11,-0.35) (12,-0.36) (13,-0.36) (14,-0.35)
+            (15,-0.34) (16,-0.33)
+          };
+          \addplot[FGACopper, very thick, mark=*, mark size=1.8pt] coordinates {
+            (8,-0.50) (9,-0.54) (10,-0.58) (11,-0.61) (12,-0.63)
+          };
+          \addplot[FGABone, dashed, mark=none] coordinates {(0,0) (16,0)};
+        \end{axis}
+      \end{tikzpicture}
+    \end{column}
+    \begin{column}{0.32\textwidth}
+      \begin{itemize}
+        \item The trade balance deteriorates after expansionary fiscal shocks.
+        \item The response is strongest after the medium horizon.
+        \item Oil revenue shocks complicate the interpretation of external adjustment.
+      \end{itemize}
+    \end{column}
+  \end{columns}
+
+  \fgatakeaway{Copper should identify the one result the audience should remember.}
+\end{frame}
+
+\section{Implications}
+
+\begin{frame}{What the result means}
+  \begin{columns}[T,onlytextwidth]
+    \begin{column}{0.32\textwidth}
+      \begin{block}{Measurement}
+        Model fiscal shocks separately from oil-linked revenue movements.
+      \end{block}
+    \end{column}
+    \begin{column}{0.32\textwidth}
+      \begin{exampleblock}{Policy}
+        External balance constraints matter even without nominal exchange-rate adjustment.
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.32\textwidth}
+      \begin{alertblock}{Communication}
+        The empirical contribution is not a generic VAR, but the institutional setting.
+      \end{alertblock}
+    \end{column}
+  \end{columns}
+
+  \vspace{0.45cm}
+  \begin{center}
+    {\Large\fgabrand{Aubergine} for structure. \fgatech{Teal} for estimates. \fgakey{Copper} for the result.}
+  \end{center}
+\end{frame}
+
+\end{document}

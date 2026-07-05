@@ -1,0 +1,117 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{beamerthemeFGA}[2026/06/18 FGA research beamer theme]
+
+\mode<presentation>
+
+\RequirePackage{xcolor}
+\RequirePackage{tikz}
+\RequirePackage{etoolbox}
+
+\definecolor{FGAInk}{HTML}{182126}
+\definecolor{FGAAubergine}{HTML}{4A355D}
+\definecolor{FGATeal}{HTML}{254F55}
+\definecolor{FGACopper}{HTML}{B66A32}
+\definecolor{FGAPaper}{HTML}{FBFAF7}
+\definecolor{FGABone}{HTML}{E6DFD4}
+\definecolor{FGAGray}{HTML}{69747A}
+\definecolor{FGAWhite}{HTML}{FFFDF8}
+
+\setbeamercolor{normal text}{fg=FGAInk,bg=FGAPaper}
+\setbeamercolor{structure}{fg=FGAAubergine}
+\setbeamercolor{alerted text}{fg=FGACopper}
+\setbeamercolor{frametitle}{fg=FGAInk,bg=FGAPaper}
+\setbeamercolor{framesubtitle}{fg=FGAGray,bg=FGAPaper}
+\setbeamercolor{title}{fg=FGAInk,bg=FGAPaper}
+\setbeamercolor{subtitle}{fg=FGAGray,bg=FGAPaper}
+\setbeamercolor{author}{fg=FGAAubergine,bg=FGAPaper}
+\setbeamercolor{date}{fg=FGAGray,bg=FGAPaper}
+\setbeamercolor{footline}{fg=FGAGray,bg=FGAPaper}
+\setbeamercolor{block title}{fg=FGAWhite,bg=FGAAubergine}
+\setbeamercolor{block body}{fg=FGAInk,bg=FGAWhite}
+\setbeamercolor{block title alerted}{fg=FGAWhite,bg=FGACopper}
+\setbeamercolor{block body alerted}{fg=FGAInk,bg=FGAWhite}
+\setbeamercolor{block title example}{fg=FGAWhite,bg=FGATeal}
+\setbeamercolor{block body example}{fg=FGAInk,bg=FGAWhite}
+
+\setbeamerfont{title}{series=\bfseries,size=\LARGE}
+\setbeamerfont{subtitle}{size=\large}
+\setbeamerfont{author}{series=\bfseries,size=\normalsize}
+\setbeamerfont{frametitle}{series=\bfseries,size=\Large}
+\setbeamerfont{framesubtitle}{size=\normalsize}
+\setbeamerfont{block title}{series=\bfseries,size=\normalsize}
+\setbeamerfont{footline}{size=\scriptsize}
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{blocks}[rounded][shadow=false]
+\setbeamertemplate{itemize item}{\color{FGAAubergine}\raisebox{0.2ex}{\scriptsize$\blacksquare$}}
+\setbeamertemplate{itemize subitem}{\color{FGATeal}\raisebox{0.2ex}{\tiny$\blacksquare$}}
+\setbeamertemplate{enumerate item}{\color{FGAAubergine}\insertenumlabel.}
+
+\setbeamersize{text margin left=10mm,text margin right=10mm}
+
+\setbeamertemplate{frametitle}{
+  \vspace{0.20cm}
+  \begin{beamercolorbox}[wd=\paperwidth,leftskip=10mm,rightskip=10mm]{frametitle}
+    \ifx\insertsectionhead\empty
+      {\usebeamerfont{framesubtitle}\color{FGAGray}Research note}
+    \else
+      {\usebeamerfont{framesubtitle}\color{FGAGray}\insertsectionhead}
+    \fi
+    \vspace{0.10cm}
+
+    {\usebeamerfont{frametitle}\insertframetitle}
+    \ifx\insertframesubtitle\empty\else
+      \vspace{0.04cm}
+
+      {\usebeamerfont{framesubtitle}\color{FGAGray}\insertframesubtitle}
+    \fi
+  \end{beamercolorbox}
+  \vspace{-0.05cm}
+  \hspace{10mm}\textcolor{FGABone}{\rule{\dimexpr\paperwidth-20mm\relax}{0.5pt}}
+}
+
+\setbeamertemplate{footline}{
+  \leavevmode
+  \begin{beamercolorbox}[wd=\paperwidth,ht=3.0ex,dp=1.1ex,leftskip=10mm,rightskip=10mm]{footline}
+    \insertshorttitle\hfill\insertframenumber\,/\,\inserttotalframenumber
+  \end{beamercolorbox}
+}
+
+\setbeamertemplate{title page}{
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[FGAAubergine] (current page.north west) rectangle ([xshift=0.18cm]current page.south west);
+    \fill[FGACopper,opacity=0.10] ([xshift=-3.5cm,yshift=-1.2cm]current page.north east) circle (4.2cm);
+    \fill[FGAAubergine,opacity=0.08] ([xshift=-2.4cm,yshift=-1.6cm]current page.north east) circle (2.6cm);
+  \end{tikzpicture}
+  \vspace{0.72cm}
+  {\usebeamerfont{subtitle}\color{FGAGray}\insertinstitute\par}
+  \vspace{0.72cm}
+  {\usebeamerfont{title}\usebeamercolor[fg]{title}\inserttitle\par}
+  \vspace{0.24cm}
+  {\usebeamerfont{subtitle}\usebeamercolor[fg]{subtitle}\insertsubtitle\par}
+  \vfill
+  {\usebeamerfont{author}\usebeamercolor[fg]{author}\insertauthor\par}
+  \vspace{0.12cm}
+  {\usebeamerfont{date}\usebeamercolor[fg]{date}\insertdate\par}
+}
+
+\newcommand{\fgakey}[1]{\textcolor{FGACopper}{\textbf{#1}}}
+\newcommand{\fgatech}[1]{\textcolor{FGATeal}{\textbf{#1}}}
+\newcommand{\fgabrand}[1]{\textcolor{FGAAubergine}{\textbf{#1}}}
+
+\newcommand{\fgatakeaway}[1]{%
+  \vspace{0.10cm}
+  \begin{beamercolorbox}[rounded=true,wd=.96\linewidth,sep=0.16cm]{block body alerted}
+    \textcolor{FGACopper}{\textbf{Takeaway.}} #1
+  \end{beamercolorbox}
+}
+
+\newcommand{\fgametric}[3]{%
+  \begin{beamercolorbox}[rounded=true,wd=\linewidth,sep=0.18cm]{block body}
+    {\color{#1}\large\textbf{#2}}\par
+    \vspace{0.04cm}
+    {\color{FGAGray}\footnotesize #3}
+  \end{beamercolorbox}
+}
+
+\mode<all>
