@@ -5,8 +5,9 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Data Tasting"
-    url: /datasets/
+  # Temporarily hidden; uncomment to restore Data Tasting.
+  # - title: "Data Tasting"
+  #   url: /datasets/
 
   - title: "CV"
     url: /cv/

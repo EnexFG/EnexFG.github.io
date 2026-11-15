@@ -210,7 +210,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   datasets:
-    output: true
+    output: false # Temporarily hidden; set true to restore Data Tasting.
     permalink: /:collection/:path/
 
 

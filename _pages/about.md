@@ -16,7 +16,9 @@ author_profile: false
 
     <div class="home-hero__actions">
       <a href="{{ base_path }}/research/" class="btn">Research</a>
+      {% comment %}Temporarily hidden; remove this comment block to restore Data Tasting.
       <a href="{{ base_path }}/datasets/" class="btn btn--inverse">Data Tasting</a>
+      {% endcomment %}
       <a href="{{ base_path }}/cv/" class="btn btn--inverse">CV</a>
     </div>
   </section>
